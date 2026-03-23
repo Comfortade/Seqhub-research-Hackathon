@@ -1,0 +1,182 @@
+[
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Financial Performance",
+    "gt_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "Good morning everyone, Q4 was a milestone quarter for TechVenture as we achieved record ARR growth of twenty-two percent."
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Financial Performance",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "While our top-line momentum remains strong, we are maintaining a disciplined stance on regional operating expenses to protect our long-term scalability."
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "Financial Performance",
+    "gt_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CFO",
+    "text": "Turning to the numbers, our EBITDA margins faced some compression this quarter, landing at fourteen percent due to front-loaded infrastructure investments."
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "Financial Performance",
+    "gt_sentiment": "mixed",
+    "pred_sentiment": "mixed",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CFO",
+    "text": "Gross retention remains healthy at ninety-one percent, though we did see some elongation in mid-market sales cycles through December."
+  },
+  {
+    "gt_speaker": "Analyst (Morgan Stanley)",
+    "gt_topic": "Revenue Guidance",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "Thanks for the color, can you bridge the gap between that record ARR and the softer-than-expected revenue guidance for Q1?"
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Revenue Guidance",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "We believe the market is stabilizing, but we\u2019re being prudent with guidance given the ongoing budget scrutiny our clients are facing."
+  },
+  {
+    "gt_speaker": "Analyst (Morgan Stanley)",
+    "gt_topic": "Customer Acquisition Cost",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "Follow-up for the CFO, your CAC jumped nearly fifteen percent this quarter; is that the new baseline or a one-off spike?"
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "Customer Acquisition Cost",
+    "gt_sentiment": "negative",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CFO",
+    "text": "That increase reflects higher bidding costs in the enterprise segment, so we are trending toward a more elevated acquisition cost in the near term."
+  },
+  {
+    "gt_speaker": "Analyst (Goldman Sachs)",
+    "gt_topic": "Competitive Strategy",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Analyst (Goldman Sachs)",
+    "text": "On the competitive front, how are you defending your pricing power against the aggressive discounting we\u2019re seeing from legacy players?"
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Competitive Strategy",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "We don't compete on price alone, though we have occasionally offered flexible payment terms to secure strategic multi-year renewals."
+  },
+  {
+    "gt_speaker": "Analyst (Goldman Sachs)",
+    "gt_topic": "Profitability Roadmap",
+    "gt_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Analyst (Goldman Sachs)",
+    "text": "But if margins are already pressured, doesn't that flexibility threaten your path to free cash flow positive by 2025?"
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "Profitability Roadmap",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CFO",
+    "text": "I want to be clear that our path to profitability is intact, subject to market conditions remaining relatively stable next year."
+  },
+  {
+    "gt_speaker": "Analyst (Goldman Sachs)",
+    "gt_topic": "SMB Churn",
+    "gt_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Analyst (Goldman Sachs)",
+    "text": "And what about the churn in the SMB segment? It seems higher than the historical average you mentioned earlier."
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "SMB Churn",
+    "gt_sentiment": "negative",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "The SMB space is certainly more volatile right now, and we are strategically pivoting our sales focus toward more resilient enterprise accounts."
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "SMB Churn",
+    "gt_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "We are confident that this shift will normalize our churn rates as we move into the second half of 2025."
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "SMB Churn",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "To add to that, we\u2019re strictly managing our headcount growth to offset any further margin volatility from the SMB side."
+  },
+  {
+    "gt_speaker": "Analyst (Morgan Stanley)",
+    "gt_topic": "Growth Strategy",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "mixed",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "Understood, so it sounds like growth is the priority even if it means some short-term pain on the bottom line?"
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Growth Strategy",
+    "gt_sentiment": "neutral",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "Our priority is sustainable growth, even if that requires us to be more aggressive in defending our market share against new entrants."
+  },
+  {
+    "gt_speaker": "CFO",
+    "gt_topic": "Closing Remarks",
+    "gt_sentiment": "positive",
+    "pred_sentiment": "neutral",
+    "pred_topic": "Unknown",
+    "pred_speaker": "Unknown",
+    "text": "We\u2019ll provide more granular detail on the 2025 roadmap during our next filing, but for now, we remain cautiously optimistic."
+  },
+  {
+    "gt_speaker": "CEO",
+    "gt_topic": "Closing Remarks",
+    "gt_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_topic": "Unknown",
+    "pred_speaker": "CEO",
+    "text": "Thank you all for joining us; we look forward to executing on these strategic initiatives in the coming months."
+  }
+]
