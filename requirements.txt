@@ -1,15 +1,2 @@
-whisperx
-pyannote.audio==3.1.1
-sentence-transformers
-ruptures
-transformers
-torch
-openai
-hdbscan
-gensim
-jiwer
-scikit-learn
-umap-learn
-nltk
-gdown
 streamlit
+openai
