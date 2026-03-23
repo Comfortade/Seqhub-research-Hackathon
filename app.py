@@ -3,8 +3,8 @@ import json
 
 st.set_page_config(page_title="SRH", page_icon="🎙️", layout="wide")
 
-st.title("SeqHub Research Hackathon — Financial Call Intelligence Pipeline")
-st.caption("Reach Hackathon 2026 | Comfort Adeosun")
+st.title("Financial Call Intelligence Pipeline")
+st.caption("Seqhub Research Hackathon 2026 | Comfort Adesina")
 
 st.divider()
 
