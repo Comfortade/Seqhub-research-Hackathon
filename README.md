@@ -146,13 +146,4 @@ Open `notebook.ipynb` and run all cells in order.
 
 
 
-## .gitignore
 
-The Python template already covers you. Just make sure these are in it:
-```
-.env
-*.mp3
-*.wav
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
